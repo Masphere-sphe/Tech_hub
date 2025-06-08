@@ -85,3 +85,39 @@ body {
 .cart_link:hover {
     background-color: #3b82f6 ;
 }
+
+.hero {
+    background: linear-gradient(135deg,  #3b82f6,  #1d4c4e);
+    color: antiquewhite;
+    text-align: center;
+    padding: 150px 10px 100px;
+    margin-top: 70px;
+    height: 90px 20px;
+}
+
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.button {
+
+    display: inline-block;
+    background-color: aliceblue;
+    color: rgb(0, 115, 255);
+    padding: 12px 30px;
+    text-decoration: none ;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.button:hover {
+    background-color: aliceblue;
+    transform: translateY(-2px);
+}
+
+
+
