@@ -217,5 +217,13 @@ body {
     background-color: rgb(190, 199, 199);
 }
 
+.footer {
+    background-color: #1d4c4e;
+    color: aliceblue;
+    text-align: center;
+    padding: 40px 0;
+    
+}
+
 
 
